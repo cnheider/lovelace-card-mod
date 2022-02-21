@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "card-tools": "github:thomasloven/lovelace-card-tools",
-    "lit": "^2.0.2"
+    "lit": "^2.1.2"
   }
 }
